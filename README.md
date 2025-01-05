@@ -40,7 +40,8 @@ Now, create a file named "tasks.txt" in the "notes" directory using the <em><str
 <br />
 <br />
 Finally, edit the "tasks.txt" file using the nano text editor using the <em><strong>nano</strong></em> command. Add a note detailing the tasks completed, then save the changes made before exiting the text editor. Verify the changes were saved by opening the file afterwards: <br/>
-<img src="https://i.imgur.com/bsBm9xJ.png" height="100%" width="100%" alt="File Management"/>
+<img src="https://i.imgur.com/bsBm9xJ.png" height="100%" width="100%" alt="File Management"/> <br/>
+<br />
 <img src="https://i.imgur.com/b9WOS12.png" height="100%" width="100%" alt="File Management"/>
 </p>
 <br />
